@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/Bhatinakul/Deploy%20a%20Docker%20container%20app%20to%20Azure%20Kubernetes%20Service/_apis/build/status/nakulbhati.devops-project-samples?branchName=master)](https://dev.azure.com/Bhatinakul/Deploy%20a%20Docker%20container%20app%20to%20Azure%20Kubernetes%20Service/_build/latest?definitionId=5&branchName=master)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
